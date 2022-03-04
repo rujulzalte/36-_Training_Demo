@@ -1,2 +1,2 @@
-# 36-_Training_Demo
+# 360_Training_Demo
 This repo is for training purpose
